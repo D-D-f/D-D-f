@@ -2,7 +2,7 @@
 <h1>Bonjour, je suis David De Freitas.</h2> 
 </p>
 
-Je suis un développeur junior full stack, très motivé par l'apprentissage des langages de programmation, j'aime particulièrement le JavaScript et TypeScript.
+Je suis un développeur junior full stack, très motivé par l'apprentissage des langages de programmation, j'aime particulièrement l'environnement JavaScript (React, Node).
 
 ### Languages
 
