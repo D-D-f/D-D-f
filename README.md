@@ -2,7 +2,7 @@
 <h1>Développeur React et Node JS.</h2> 
 </p>
 
-Salut ! Je m'appelle [David], et je suis un développeur junior passionné par la création d'applications Web performantes et intuitives. J'ai une expérience avec Node.js et React, j'adore relever de nouveaux défis pour améliorer mes compétences.
+Salut ! Je m'appelle David, et je suis un développeur junior passionné par la création d'applications Web performantes et intuitives. J'ai une expérience avec Node.js et React, j'adore relever de nouveaux défis pour améliorer mes compétences.
 
 
 ### Languages
