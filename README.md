@@ -1,8 +1,9 @@
 <p align="center">
-<h1>Bonjour, je suis David De Freitas.</h2> 
+<h1>Développeur React et Node JS.</h2> 
 </p>
 
-Je suis un développeur junior full stack, très motivé par l'apprentissage des langages de programmation, j'aime particulièrement l'environnement JavaScript (React, Node).
+Salut ! Je m'appelle [David], et je suis un développeur junior passionné par la création d'applications Web performantes et intuitives. J'ai une expérience avec Node.js et React, j'adore relever de nouveaux défis pour améliorer mes compétences.
+
 
 ### Languages
 
